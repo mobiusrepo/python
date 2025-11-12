@@ -1,0 +1,14 @@
+{
+  "choice_set": [
+    "strategyA",
+    "strategyB",
+    "strategyC"
+  ],
+  "payoff_matrix": {
+    "strategyA": 10.0,
+    "strategyB": 5.0,
+    "strategyC": 12.0
+  },
+  "global_target": 8.0,
+  "epsilon": 0.001
+}

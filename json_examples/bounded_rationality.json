@@ -1,0 +1,20 @@
+{
+  "choice_set": [
+    "choice1",
+    "choice2",
+    "choice3"
+  ],
+  "payoff_matrix": {
+    "choice1": 10.0,
+    "choice2": 15.0,
+    "choice3": 8.0
+  },
+  "agent_capacity": {
+    "max_evals": 2,
+    "attention": 0.5
+  },
+  "mode": "satisficing",
+  "aspiration": 12.0,
+  "sample_budget": 2,
+  "random_seed": 42
+}

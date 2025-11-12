@@ -1,0 +1,12 @@
+{
+  "proposal_map": {
+    "proposalA": {"amount": 100.0},
+    "proposalB": {"amount": 150.0},
+    "proposalC": {"amount": 80.0}
+  },
+  "payoff_gradients": {
+    "proposalA": 0.7,
+    "proposalB": 0.9,
+    "proposalC": 0.5
+  }
+}
