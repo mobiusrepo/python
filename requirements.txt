@@ -1,4 +1,8 @@
 fastapi
 uvicorn
-lark
-python-multipart
+numpy
+pydantic
+nashpy
+pandas
+cvxpy
+quantecon

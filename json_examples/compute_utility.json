@@ -1,0 +1,31 @@
+{
+  "agent_preferences": {
+    "value": 0.6,
+    "attention_cost": -0.4
+  },
+  "outcome_set": [
+    {
+      "id": "outcome1",
+      "value": 100.0,
+      "attention_cost": 10.0
+    },
+    {
+      "id": "outcome2",
+      "value": 80.0,
+      "attention_cost": 5.0
+    },
+    {
+      "id": "outcome3",
+      "value": 120.0,
+      "attention_cost": 15.0
+    }
+  ],
+  "normalize": true,
+  "normalization_method": "minmax",
+  "attention_attr": "attention_cost",
+  "attention_budget": 8.0,
+  "attention_cost_coeff": 1.0,
+  "softmax_temp": 1.0,
+  "satisficing_threshold": 0.7,
+  "apply_attention": true
+}

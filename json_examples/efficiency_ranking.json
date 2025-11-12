@@ -1,0 +1,17 @@
+{
+  "candidate_set": [
+    "optionX",
+    "optionY",
+    "optionZ"
+  ],
+  "usage_trace": {
+    "optionX": [0.1, 0.2, 0.7],
+    "optionY": [0.5, 0.3, 0.2],
+    "optionZ": [0.9, 0.05, 0.05]
+  },
+  "payoff_vector": {
+    "optionX": 100.0,
+    "optionY": 80.0,
+    "optionZ": 120.0
+  }
+}

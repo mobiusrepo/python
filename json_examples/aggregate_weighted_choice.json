@@ -1,0 +1,16 @@
+{
+  "economic_values": {
+    "agent1": {
+      "benefit": 100.0,
+      "cost": 20.0,
+      "capability": 0.8,
+      "tokenFlow": 50.0
+    },
+    "agent2": {
+      "benefit": 80.0,
+      "cost": 15.0,
+      "capability": 0.7,
+      "tokenFlow": 40.0
+    }
+  }
+}
